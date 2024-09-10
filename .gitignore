@@ -1,0 +1,5 @@
+# Go lang
+*.exe
+*.exe~
+*.dll
+*.so
